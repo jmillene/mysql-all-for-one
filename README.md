@@ -1,7 +1,7 @@
 # Boas vindas ao repositório do projeto All For One!
 
 
-details>
+<details>
   <summary><strong>👨‍💻 O que foi desenvolvido?</strong></summary><br />
 
 Foi colocado em prática todos os conceitos de SQL já ensinados até aqui.
